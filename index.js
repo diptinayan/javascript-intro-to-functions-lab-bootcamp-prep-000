@@ -15,6 +15,5 @@ function sayHiToGrandma() {
   mixedCase.toLowerCase() === mixedCase // false
 
   mixedCase.toUpperCase() === mixedCase // false
-  
-} 
 
+}
