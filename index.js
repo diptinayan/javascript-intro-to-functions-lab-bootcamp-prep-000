@@ -1,7 +1,7 @@
-function shout(string) {
+function shout("i love you,too") {
   return string.toUpperCase()
 }
-function sayHiToGrandma("I Love you,too") {
+function sayHiToGrandma() {
   var uppercase = "HELLO!"
 
   uppercase.toUpperCase() === uppercase // true
