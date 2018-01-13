@@ -1,3 +1,9 @@
+function shout(string) {
+  return string.toUpperCase()
+}
+
+sayHiToGrandma()
+
 var uppercase = "HELLO!"
 
 uppercase.toUpperCase() === uppercase // true
@@ -11,4 +17,4 @@ var mixedCase = 'Hi there!'
 mixedCase.toLowerCase() === mixedCase // false
 
 mixedCase.toUpperCase() === mixedCase // false
-console.log();
+
